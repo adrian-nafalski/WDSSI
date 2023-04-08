@@ -1,0 +1,24 @@
+--------------------
+Dodatkowe informacje
+--------------------
+
+Instalacja SWI Prologa:
+https://www.swi-prolog.org/download/stable
+
+---
+
+SWI PROLOG:
+
+Uwaga:
+W SWIProlog nie wszystko działa tak jak GNU Prolog dlatego trzeba czasem przerobić zawartość pod SWIProlog.
+
+Składnia SWI Prolog:
+https://www.swi-prolog.org/pldoc/man?section=syntax
+
+SWISH SWI Prolog Web IDE:
+https://swish.swi-prolog.org/
+
+---
+
+Dokumentacja SWI Prolog:
+https://www.swi-prolog.org/pldoc/index.html
