@@ -1,5 +1,5 @@
 <h1 align="center">
-    🤖 <b>WDSSI</b> 🤖
+    🤖 <b>WDSSI</b> 🤖<br />
     ▬▬ι═══════ﺤ
 </h1>
 
@@ -34,8 +34,8 @@ Warunki zaliczenia:
 
 1. Oddanie w terminie poprawne i samodzielnie wykonanych ćwiczeń jest podstawą zaliczenia.
 2. Minimalna ilość zadań na ocenę:
-   **5** - wszystkie ćwiczenia (ustna obrona)
-   **4** - min 4 ćwiczenia
+   **5** - wszystkie ćwiczenia (ustna obrona)\
+   **4** - min 4 ćwiczenia\
    **3** - min 3 ćwiczenia
 3. Oddanie ćwiczenia będzie uznane jeśli na GitHubie w repozytorium wynik pracy z danego materiału będzie udostępniony w okresie wskazanym poniżej.
 
@@ -46,7 +46,7 @@ Warunki zaliczenia:
    5. Do **8.06** - Algorytmy Genetyczne
 
 4. Zaliczenie: **15.06.2023** Poprawka : **22.06.2023**
-5. Zadania zaliczeniowe wysyłamy na mail
+5. Zadania zaliczeniowe wysyłamy na mail\
    `zajecia.umcs@gmail.com`
 
 ---
@@ -63,7 +63,7 @@ Warunki zaliczenia:
 <p align="center"><font size="-2">Image from <a href="https://www.swi-prolog.org/">https://seeklogo.com/</a></font>
 </p>
 
-Celem tego [projektu](czateria) było zapoznanie się z [zadaniami](czateria\lab.pdf), które polegały na odpytywaniu chat botów na różne tematy i sporządzenie na ich podstawie [raportu](czateria\lab.pdf).
+Celem tego [projektu](czateria) było zapoznanie się z [zadaniami](czateria/lab.pdf), które polegały na odpytywaniu chat botów na różne tematy i sporządzenie na ich podstawie [raportu](czateria/czateria.pdf).
 
 ## Prolog
 
@@ -73,18 +73,18 @@ Celem tego [projektu](czateria) było zapoznanie się z [zadaniami](czateria\lab
 <p align="center"><font size="-2">Image from <a href="https://seeklogo.com/">https://www.swi-prolog.org/</a></font>
 </p>
 
-Na początku należało zapoznać się z [wprowadzeniem](prolog\prolog_intro.pdf) do języka Prolog oraz [dodatkowymi informacjami](prolog\info.txt) opisującymi jego działanie, możliwości i ograniczenia. Następnie mogliśmy przejść do wykonywania otrzymanych zadań.
+Na początku należało zapoznać się z [wprowadzeniem](prolog/prolog_intro.pdf) do języka Prolog oraz [dodatkowymi informacjami](prolog/info.txt) opisującymi jego działanie, możliwości i ograniczenia. Następnie mogliśmy przejść do wykonywania otrzymanych zadań.
 
 W tym projekcie należało wykonać: 
 
-- [zadanie z podstaw](prolog\podstawy)
-- [ćwiczenie 1](prolog\cwiczenia\cwiczenie_1)
-- [ćwiczenie 2](prolog\cwiczenia\cwiczenie_2)
+- [zadanie z podstaw](prolog/podstawy)
+- [ćwiczenie 1](prolog/cwiczenia/cwiczenie_1)
+- [ćwiczenie 2](prolog/cwiczenia/cwiczenie_2)
 
 opcjonalnie można było też wykonać ćwiczenia dla chętnych:
 
-- [labirynt](prolog\cwiczenia\dla_chetnych_1)
-- [zadania](prolog\cwiczenia\dla_chetnych_2)
+- [labirynt](prolog/cwiczenia/dla_chetnych_1)
+- [zadania](prolog/cwiczenia/dla_chetnych_2)
 
 Aby, móc sprawdzić poprawność wykonanych zadań można:
 - zainstalować u siebie na sprzęcie fizycznym [GNU Prolog](http://www.gprolog.org/)
@@ -103,7 +103,7 @@ Wykonane zadanie z **Drzew decyzyjnych** można znaleźć [tutaj](drzewa_decyzyj
 
 Można je sprawdzić na parę sposobów:
 
-1. Poprzez GitHub Preview [DD](drzewa_decyzyjne\DecisionTrees_adrian_nafalski.ipynb)
+1. Poprzez GitHub Preview [DD](drzewa_decyzyjne/DecisionTrees_adrian_nafalski.ipynb)
 2. Pobrać i uruchomić na swoim sprzęcie fizycznym [Jupyter Notebook](https://jupyter.org/) oraz za jego pomocą uruchomić plik z rozszerzeniem ```.ipynb``` 
 3. Pobrać i przesłać do swojej przeglądarki plik z rozszerzeniem ```.ipynb``` do [Colaboratory](https://colab.research.google.com/?utm_source=scs-index)
    
@@ -122,27 +122,27 @@ Projekt z sieciami neuronowymi został podzielony na dwie części:
 
 - Drugi projekt polegał na dodaniu propagacji wstecznej do wcześniej zaimplementowanej sieci.
 
-Wykonane zadanie ze **Sztucznych sieci neuronowych** można znaleźć [tutaj](sztuczne_sieci_neuronowe\zadanie), natomiast zadanie z **Propagacji wstecznej** można znaleźć [tutaj](propagacja_wsteczna\zadanie). 
+Wykonane zadanie ze **Sztucznych sieci neuronowych** można znaleźć [tutaj](sztuczne_sieci_neuronowe/zadanie), natomiast zadanie z **Propagacji wstecznej** można znaleźć [tutaj](propagacja_wsteczna/zadanie). 
 
 Można je sprawdzić na parę sposobów:
 
-1. Poprzez GitHub Preview [SSN](sztuczne_sieci_neuronowe\zadanie\adrian_nafalski_ann.ipynb) [PW](propagacja_wsteczna\zadanie\adrian_nafalski_back_propagation.ipynb)
+1. Poprzez GitHub Preview [SSN](sztuczne_sieci_neuronowe/zadanie/adrian_nafalski_ann.ipynb) [PW](propagacja_wsteczna/zadanie/adrian_nafalski_back_propagation.ipynb)
 2. Pobrać i uruchomić na swoim sprzęcie fizycznym [Jupyter Notebook](https://jupyter.org/) oraz za jego pomocą uruchomić plik z rozszerzeniem ```.ipynb``` 
 3. Pobrać i przesłać do swojej przeglądarki plik z rozszerzeniem ```.ipynb``` do [Colaboratory](https://colab.research.google.com/?utm_source=scs-index)
 
 ## Algorytmy Genetyczne
 
-Głównym celem było zapoznanie się z teorią algorytmów genetycznych zawartą w [pliku](algorytmy_genetyczne\materiały\Genetic_algorithms.ipynb) z rozszerzeniem ```.ipynb```. Następnie należało zapoznać się z opisanym [zadaniem](algorytmy_genetyczne\zadanie\README.md) oraz je samodzielnie poprawnie zaimplementować bazując na poniższym kodzie:
+Głównym celem było zapoznanie się z teorią algorytmów genetycznych zawartą w [pliku](algorytmy_genetyczne/materiały/Genetic_algorithms.ipynb) z rozszerzeniem ```.ipynb```. Następnie należało zapoznać się z opisanym [zadaniem](algorytmy_genetyczne/zadanie/README.md) oraz je samodzielnie poprawnie zaimplementować bazując na poniższym kodzie:
 
 <p align="center">
   <img src="algorytmy_genetyczne\zadanie\assets\screen.png" />
 </p>
 
-Wykonane zadanie można znaleźć [tutaj](algorytmy_genetyczne\zadanie).
+Wykonane zadanie można znaleźć [tutaj](algorytmy_genetyczne/zadanie).
 
 Można je sprawdzić na parę sposobów:
 
-1. Poprzez GitHub Preview [AG](algorytmy_genetyczne\zadanie\adrian_nafalski_genetic_algorithm.ipynb)
+1. Poprzez GitHub Preview [AG](algorytmy_genetyczne/zadanie/adrian_nafalski_genetic_algorithm.ipynb)
 2. Pobrać i uruchomić na swoim sprzęcie fizycznym [Jupyter Notebook](https://jupyter.org/) oraz za jego pomocą uruchomić plik z rozszerzeniem ```.ipynb``` 
 3. Pobrać i przesłać w swojej przeglądarce plik z rozszerzeniem ```.ipynb``` do [Colaboratory](https://colab.research.google.com/?utm_source=scs-index)
 
@@ -150,7 +150,7 @@ Można je sprawdzić na parę sposobów:
 
 # Dodatkowe materiały :arrow_heading_down:
 
-Materiały można znaleźć [tutaj](dodatkowe_notebooki/).
+Materiały można znaleźć [tutaj](dodatkowe_notebooki).
 
 ---
 
