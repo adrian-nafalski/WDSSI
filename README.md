@@ -33,7 +33,7 @@
 Warunki zaliczenia:
 
 1. Oddanie w terminie poprawne i samodzielnie wykonanych ćwiczeń jest podstawą zaliczenia.
-2. Minimalna ilość zadań na ocenę:
+2. Minimalna ilość zadań na ocenę:\
    **5** - wszystkie ćwiczenia (ustna obrona)\
    **4** - min 4 ćwiczenia\
    **3** - min 3 ćwiczenia
@@ -45,7 +45,9 @@ Warunki zaliczenia:
    4. Do **31.05** - Sieci neuronowe
    5. Do **8.06** - Algorytmy Genetyczne
 
-4. Zaliczenie: **15.06.2023** Poprawka : **22.06.2023**
+4. Zaliczenie: **15.06.2023**\
+   Poprawka : **22.06.2023**
+
 5. Zadania zaliczeniowe wysyłamy na mail\
    `zajecia.umcs@gmail.com`
 
